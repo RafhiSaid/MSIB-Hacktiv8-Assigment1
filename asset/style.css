@@ -1,0 +1,51 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #96B6C5;
+}
+
+.pencarian {
+    border: 1px solid black;
+}
+
+.nav-menu a {
+    color: black;
+}
+
+.dropdown-menu {
+    background-color: #ADC4CE;
+}
+
+.form-control {
+    background-color: #96B6C5;
+    border: 0;
+    margin: 6px;
+}
+
+.form-control:focus {
+    background-color: #96B6C5;
+    box-shadow: none;
+}
+
+.search:hover {
+    box-shadow: none;
+}
+
+.search:focus {
+    box-shadow: none;
+}
+
+.chart {
+    margin: 6px;
+}
+
+.opening {
+    margin-right: 10rem;
+}
+
+.rounded-bottom {
+    background-color: #ADC4CE;
+    border-radius: 20%;
+}
